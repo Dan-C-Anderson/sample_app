@@ -1,0 +1,16 @@
+#ignore specific things from the program outputs
+log.txt
+
+#ignore Mac default folder options
+.DS_Store
+
+#ignore executables
+helloworld
+*.out
+*.o
+*.a
+*.so
+*.exe
+*.dll
+*.dylib
+
